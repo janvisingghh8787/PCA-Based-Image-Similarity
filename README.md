@@ -2,6 +2,8 @@
 
 EigenMatch is an image similarity application built using **Principal Component Analysis (PCA)** and the **Eigenfaces** approach. The application finds faces that are visually similar by comparing their feature vectors in PCA space using three different similarity metrics.
 
+**Live Demo:** https://pca-based-image-similarity.streamlit.app/
+
 ## Features
 
 - Face similarity search using PCA (Eigenfaces)
