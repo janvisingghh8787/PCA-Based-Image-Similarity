@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+venv/
+.venv/
+.ipynb_checkpoints/
+scikit_learn_data/
+.streamlit/secrets.toml
+.DS_Store
+
+# Keep the precomputed cache tracked -- it's what makes cold starts fast.
+# (No exclusion rule needed here; just don't add models/*.joblib to this file.)
